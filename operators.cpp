@@ -1,12 +1,4 @@
-//Riddhi Musale
-//Prn:23070123108
-//Exp 3 Operators
 
-       
-       
-       
-   
-   
 #include <iostream>
 using namespace std;
 int main()
